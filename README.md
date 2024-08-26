@@ -3,11 +3,11 @@
 <h1 align="left">👋 Hi, I´m Carolina!</h1>
 
 
-- 📈 **Data Analyts** with +5 years experience in Project Management and Customer Success Management. 
+- 📈 **Data Analyts** with +5 years experience in Project Management. 
 - 🛒 Masters in **Digital Marketing and Ecommerce** by EAE Business School and Universitat de Barcelona. 
 - 🌱 I’m currently working on my **Data Analytics Certification** (Careerfoundry) and **AWS Certified Cloud Practitioner** (CloudGuru)
-- 📋 Explore my [portfolio](https://drive.google.com/drive/folders/18pNEF6Bppj_8j7Pd0zbUHZrd8Mz6Xi_1)
-- 💭 Currently learning about Machine Learning and Advance Data Visualization
+- 📋 Explore my [portfolio](https://drive.google.com/file/d/1aB1ngOIvjIMGx04e2H4YxSDQVpWvL_5s/view?usp=sharing)
+- 💭 Currently into Machine Learning and Advance Data Visualization. 
 
 
 
