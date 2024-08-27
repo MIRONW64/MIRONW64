@@ -2,6 +2,7 @@
 ###
 <h1 align="left">👋 Hi, I´m Carolina!</h1>
 
+I am a Data analyst with hands-on experience in using various tools to collect, organize, and analyze data, helping businesses make smarter decisions. I’m comfortable working with Python, SQL, Excel, and Tableau. I’ve got a good grasp of building dashboards, writing reports, data mining, combining datasets, and using statistics to uncover insights
 
 - 📈 **Data Analyts** with +5 years experience in Project Management. 
 - 🛒 Masters in **Digital Marketing and Ecommerce** by EAE Business School and Universitat de Barcelona. 
